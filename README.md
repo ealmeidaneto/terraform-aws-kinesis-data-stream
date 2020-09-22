@@ -1,5 +1,4 @@
 # Terraform module for Kinesis Data Stream
-
 ## Requirements
 
 | Name | Version |
@@ -34,4 +33,3 @@
 | aws\_kinesis\_stream\_id | The unique Stream id |
 | aws\_kinesis\_stream\_name | The unique Stream name |
 | aws\_kinesis\_stream\_shard\_count | The count of Shards for this Stream |
-
